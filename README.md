@@ -1,5 +1,5 @@
-🔐 Biometric Face Recognition System
-Technologies Used
+                Biometric Face Recognition System
+Technologies Used:
 * Python
 * OpenCV (Face Recognition)
 * NumPy
@@ -7,7 +7,7 @@ Technologies Used
 * PIL (Image Processing)
 * pyttsx3 (Text-to-Speech)
 
-Required Packages
+Required Packages:
 
 Install the following dependencies before running the project:
 
