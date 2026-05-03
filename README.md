@@ -20,7 +20,8 @@ py -3.11 -m venv .venv
 .venv\Scripts\activate
 ```
 --------------------------------------------------------------------------
-if the activate of .venv is not working do this!
+if the activation of .venv is not working 
+do this!
 ```bash
 Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
 .venv\Scripts\Activate.ps1
