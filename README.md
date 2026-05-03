@@ -1,4 +1,4 @@
-# 🔐 Biometric Face Recognition System
+🔐 Biometric Face Recognition System
 Technologies Used
 * Python
 * OpenCV (Face Recognition)
